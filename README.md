@@ -1,1 +1,1 @@
-# deal-edge-frontend
+# deal-edge-client
